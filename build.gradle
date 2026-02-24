@@ -20,7 +20,7 @@ repositories {
 }
 
 ext {
-    dlcVersion = "2.5.0"
+    dlcVersion = "3.0.0"
 }
 
 dependencies {
