@@ -4,7 +4,7 @@ plugins {
 }
 
 group = 'io.domainlifecycles'
-version = '1.2'
+version = '1.3'
 
 publishing {
     publications {
@@ -20,7 +20,7 @@ repositories {
 }
 
 ext {
-    dlcVersion = "3.1.0"
+    dlcVersion = "3.5.0"
 }
 
 dependencies {
